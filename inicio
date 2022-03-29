@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css.telap/reset.css">
+    <link rel="stylesheet" href="portfolio.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<header>
+    <nav>
+        <ul>
+            <li><a href="inicio.html">Home</a></li>
+            <li><a href="projetos.html">projetos</a></li>
+            <li><a href="">qualificaçoes</a></li>
+           
+            <li><a href="">contato</a></li>   
+        </ul>
+       </nav>
+</header>
+<body>
+    <h1>Gabriel Leite</h1>
+    <p class="p1">Freelancer </p>
+    <p class="p2">Desenvolvedor Web e</p>
+    
+    
+
+    
+</body>
+</html>

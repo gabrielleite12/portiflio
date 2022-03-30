@@ -1,0 +1,139 @@
+body{
+    background-color: rgb(7, 7, 7);
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10%;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+nav {
+    position: absolute;
+    top: 10%;
+    left:  70%;
+    border-bottom: 2px solid #3D9BE9; 
+    text-align: center;
+    margin: auto;
+ }
+
+nav li {
+    text-align: center;
+       display: inline;
+       padding: 15px;         
+   }
+
+nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: #3D9BE9;
+}
+
+main{
+    margin-top: auto;
+    text-align: center;
+    padding: auto;
+    padding-bottom: 15%;
+}
+
+.projetos li{
+    display: inline-block;
+    text-align: center;
+    height: 10%;
+    width: 15%;
+    margin: 0 2%;
+    padding: 30px 10px;
+    box-sizing: border-box;
+    border: 3px solid #3D9BE9;
+    border-radius: 10px;
+    
+     
+  }
+  
+  .projetos h2 {
+     font-size: 30px;
+     font-weight: bold;
+     color: rgb(233, 233, 233);
+     text-decoration: none;
+    
+  }
+  
+  .projetos p {
+     font-size: 15PX;
+     text-decoration: none;
+     color: #3D9BE9;
+  
+  }
+
+  button{ /* BOTAO DE ver+ */
+    outline: none;
+    border-radius: 5px;
+    text-align: center;
+    text-align: top;
+    background-color:#3D9BE9;
+    font-size: 16px;
+    padding: 2.5px;
+    
+    
+  }
+   
+    #b{ /* BOTAO DE ver+*/
+    font-size: 16px;
+    padding: 2.5px;
+    position: absolute;
+    left: 25%;
+    margin-top: 5%;
+ }
+
+ button:hover { /* HOVER DO ver+*/
+    background-color: rgb(235, 233, 227);
+ }
+
+ .demo li{
+     margin-top: 10%;
+     margin-bottom: 5%;
+     padding-top: 5px;
+     border-bottom: #3D9BE9 solid 1px;
+
+ }
+ 
+ .demo p {
+     color: #3D9BE9;
+     display: inline-block;
+     vertical-align: top;
+     font-weight: bold;
+     font-size: 30px;
+     width: max-content 50px;
+   
+ }
+ 
+ .img {
+     width: 50%;
+     
+     
+ }
+
+ h2 {
+     font-size: 50px;
+     font-weight: bold;
+     color: white;
+     font-style: italic;
+     text-transform: uppercase;
+     text-align: center;
+     
+ }
+ video{
+     width: 50%;
+     
+ }
+ 
+
